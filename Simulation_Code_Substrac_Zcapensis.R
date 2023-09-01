@@ -1,4 +1,4 @@
-Table=read.delim('C:/Users/Sebastian Avellaneda/Desktop/Último semestre 2/Trabajo de grado 2/Submit/Data_Zonotrichia.txt', header=T, dec= ",") #change the ubication
+Table=read.delim('Data_Zonotrichia.txt', header=T, dec= ",") #Load raw data
 
 ####Example with Tarsus
 
