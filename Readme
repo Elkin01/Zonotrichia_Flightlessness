@@ -1,0 +1,5 @@
+#Simulation_Code_Substrac_Zcapensis.R
+#R code for simulations
+
+#Data_Zonotrichia.txt
+#Rawdata of the seven morphological traits (Tarsus	Keel, Wingarea, Tail, Pectoralmass, Heart	Lungs) for the two localities, "Alta" (high-elevations) and "Baja" (mid-elevations)
