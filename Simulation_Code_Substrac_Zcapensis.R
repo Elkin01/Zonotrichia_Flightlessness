@@ -9,6 +9,10 @@ table=na.omit(table)
 deltaramdvalues=c()
 
 
+XXXX
+
+
+XXXX
 
 
 XXXX
